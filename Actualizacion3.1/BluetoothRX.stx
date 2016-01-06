@@ -1,0 +1,41 @@
+Release 14.7 - xst P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> Parameter xsthdpdir set to D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> WARNING:Xst:3164 - Option "-debug" found multiple times in the command line. Only the first occurence is considered.
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/RS232.vhd" in Library work.
+Architecture behavioral of Entity rs232 is up to date.
+Compiling vhdl file "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/statemachine.vhd" in Library work.
+Architecture synth of Entity maquina_estados is up to date.
+Compiling vhdl file "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/DIVISOR_FREQ.vhd" in Library work.
+Architecture behavioral of Entity divisor_freq is up to date.
+Compiling vhdl file "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/BluetoothRX.vhd" in Library work.
+Entity <bluetoothrx> compiled.
+Entity <bluetoothrx> (Architecture <behavioral>) compiled.
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.30 secs
+ 
+--> 
+
+Total memory usage is 228992 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    1 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

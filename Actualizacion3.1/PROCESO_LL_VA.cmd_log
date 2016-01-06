@@ -1,0 +1,1 @@
+vhdtdtfi -prj Actualizacion3.0 -o "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/PROCESO_LL_VA.vhi" -module PROCESO_LL_VA -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work X7seg.vhd -lib work Tacometro.vhd -lib work Divisor.vhd -lib work Binary_To_BCD_16b.vhd -lib work TOPPP.vhd 

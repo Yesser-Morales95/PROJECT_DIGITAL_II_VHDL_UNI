@@ -1,0 +1,2 @@
+vhdtdtfi -prj Actualizacion3.0 -o "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/temp.vhi" -module temp -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work onewire1.vhd 
+vhdtdtfi -prj Actualizacion3.0 -o "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/temp.vhi" -module temp -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work temp.vhd 

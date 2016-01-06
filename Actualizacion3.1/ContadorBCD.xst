@@ -1,0 +1,5 @@
+set -tmpdir "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/xst/projnav.tmp"
+set -xsthdpdir "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/xst"
+elaborate
+-ifn ContadorBCD.prj
+-ifmt mixed

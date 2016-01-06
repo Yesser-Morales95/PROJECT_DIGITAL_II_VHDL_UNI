@@ -1,0 +1,3 @@
+vhdl work "UART_transmitter.vhd"
+vhdl work "UART_baudRateGenerator.vhd"
+vhdl work "UARTPC.vhd"

@@ -1,0 +1,2 @@
+vhdtdtfi -prj Actualizacion3.0 -o "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/UART.vhi" -module UART -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work TX.vhd -lib work RX.vhd -lib work UART.vhd 
+vhdtdtfi -prj Actualizacion3.0 -o "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/UART.vhi" -module UART -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work TX.vhd -lib work RX.vhd -lib work UART.vhd 

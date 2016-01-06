@@ -1,0 +1,144 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\trce.exe -intstyle ise -v 3 -s 5 -n
+3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o
+Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf
+
+Design file:              Actualizacion3P1.ncd
+Physical constraint file: Actualizacion3P1.pcf
+Device,package,speed:     xc3s500e,fg320,-5 (PRODUCTION 1.27 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:2698 - No timing constraints found, doing default enumeration.
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+INFO:Timing:3390 - This architecture does not support a default System Jitter 
+   value, please add SYSTEM_JITTER constraint to the UCF to modify the Clock 
+   Uncertainty calculation.
+INFO:Timing:3389 - This architecture does not support 'Discrete Jitter' and 
+   'Phase Error' calculations, these terms will be zero in the Clock 
+   Uncertainty calculation.  Please make appropriate modification to 
+   SYSTEM_JITTER to account for the unsupported Discrete Jitter and Phase 
+   Error.
+
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Setup/Hold to clock MHZ50
+------------+------------+------------+------------------+--------+
+            |Max Setup to|Max Hold to |                  | Clock  |
+Source      | clk (edge) | clk (edge) |Internal Clock(s) | Phase  |
+------------+------------+------------+------------------+--------+
+PULSO       |    1.182(R)|    1.291(R)|MHZ50_BUFGP       |   0.000|
+PULSO1      |    1.405(R)|    1.258(R)|MHZ50_BUFGP       |   0.000|
+R           |    1.342(R)|    0.534(R)|MHZ50_BUFGP       |   0.000|
+RXD         |    1.074(R)|    0.849(R)|MHZ50_BUFGP       |   0.000|
+SW          |    4.141(R)|   -0.336(R)|MHZ50_BUFGP       |   0.000|
+TX1         |    0.638(R)|    0.818(R)|MHZ50_BUFGP       |   0.000|
+TX2         |    0.178(R)|    1.000(R)|MHZ50_BUFGP       |   0.000|
+UART_RXD    |    2.256(R)|    0.697(R)|MHZ50_BUFGP       |   0.000|
+------------+------------+------------+------------------+--------+
+
+Clock FWYN to Pad
+------------+------------+------------------+--------+
+            | clk (edge) |                  | Clock  |
+Destination |   to PAD   |Internal Clock(s) | Phase  |
+------------+------------+------------------+--------+
+BOMBA       |    7.341(F)|U1/PUMP_not0001   |   0.000|
+SOLENOIDE1  |    7.248(F)|U1/PUMP_not0001   |   0.000|
+SOLENOIDE2  |    7.243(F)|U1/PUMP_not0001   |   0.000|
+SOLENOIDE3  |    7.243(F)|U1/PUMP_not0001   |   0.000|
+------------+------------+------------------+--------+
+
+Clock MHZ50 to Pad
+------------+------------+------------------+--------+
+            | clk (edge) |                  | Clock  |
+Destination |   to PAD   |Internal Clock(s) | Phase  |
+------------+------------+------------------+--------+
+BOMBA2      |   18.318(R)|MHZ50_BUFGP       |   0.000|
+HEATER      |   13.707(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<0>   |    7.865(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<1>   |   10.297(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<2>   |    9.887(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<3>   |    9.494(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<4>   |   10.025(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<5>   |    9.787(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<6>   |    9.975(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<7>   |   10.075(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<8>   |    9.415(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<9>   |   10.172(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<10>  |    9.086(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<11>  |    9.438(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<12>  |    9.724(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<13>  |   10.065(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<14>  |    9.563(R)|MHZ50_BUFGP       |   0.000|
+SALIDA<15>  |   11.733(R)|MHZ50_BUFGP       |   0.000|
+SEG7<0>     |   28.848(R)|MHZ50_BUFGP       |   0.000|
+SEG7<1>     |   28.797(R)|MHZ50_BUFGP       |   0.000|
+SEG7<2>     |   27.768(R)|MHZ50_BUFGP       |   0.000|
+SEG7<3>     |   28.284(R)|MHZ50_BUFGP       |   0.000|
+SEG7<4>     |   29.224(R)|MHZ50_BUFGP       |   0.000|
+SEG7<5>     |   28.749(R)|MHZ50_BUFGP       |   0.000|
+SEG7<6>     |   29.222(R)|MHZ50_BUFGP       |   0.000|
+SEL7<0>     |    8.927(R)|MHZ50_BUFGP       |   0.000|
+SEL7<1>     |    9.098(R)|MHZ50_BUFGP       |   0.000|
+SEL7<2>     |    8.215(R)|MHZ50_BUFGP       |   0.000|
+SEL7<3>     |    7.648(R)|MHZ50_BUFGP       |   0.000|
+SOLENOIDE4  |   14.510(R)|MHZ50_BUFGP       |   0.000|
+TXD         |    7.920(R)|MHZ50_BUFGP       |   0.000|
+UART_TXD    |    8.051(R)|MHZ50_BUFGP       |   0.000|
+------------+------------+------------------+--------+
+
+Clock to Setup on destination clock FWYN
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+FWYN           |         |         |    1.310|    1.310|
+---------------+---------+---------+---------+---------+
+
+Clock to Setup on destination clock MHZ50
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+MHZ50          |    6.527|         |         |         |
+---------------+---------+---------+---------+---------+
+
+Pad to Pad
+---------------+---------------+---------+
+Source Pad     |Destination Pad|  Delay  |
+---------------+---------------+---------+
+FWYN           |BOMBA2         |   12.493|
+FWYN           |HEATER         |    7.874|
+FWYN           |SOLENOIDE4     |    8.685|
+---------------+---------------+---------+
+
+
+Analysis completed Tue Jan 05 17:17:44 2016 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 142 MB
+
+
+

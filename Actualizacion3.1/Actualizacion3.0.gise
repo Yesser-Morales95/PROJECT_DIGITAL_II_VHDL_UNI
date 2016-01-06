@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="Actualizacion3.0.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name=".lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="Actualizacion3P1.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Actualizacion3P1.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Actualizacion3P1.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="Actualizacion3P1.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Actualizacion3P1.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="Actualizacion3P1.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Actualizacion3P1.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="Actualizacion3P1.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="Actualizacion3P1.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="Actualizacion3P1.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Actualizacion3P1.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="Actualizacion3P1.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Actualizacion3P1.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Actualizacion3P1.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="Actualizacion3P1.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="Actualizacion3P1.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="Actualizacion3P1.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="Actualizacion3P1.ut" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="Actualizacion3P1.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Actualizacion3P1.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Actualizacion3P1_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="Actualizacion3P1_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="Actualizacion3P1_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="Actualizacion3P1_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="Actualizacion3P1_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="Actualizacion3P1_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Actualizacion3P1_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Actualizacion3P1_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="Actualizacion3P1_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="Actualizacion3P1_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Actualizacion3P1_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Actualizacion3P1_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="Actualizacion3P1_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="Actualizacion3P1_usage.xml"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Actualizacion3P1_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Actualizacion3P1_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="BluetoothRX.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="BluetoothRX.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="BluetoothRX.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="BluetoothRX.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="ContadorBCD.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="ContadorBCD.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="ContadorBCD.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="ContadorBCD.xst"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="DIVISOR_FREQ.vhi"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="DIVISOR_FREQTX.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="DIVISOR_FREQTX.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="DIVISOR_FREQTX.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="PROCESO_LL_VA.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="PROCESO_LL_VA.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="PROCESO_LL_VA.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="PROCESO_LL_VA.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="TOP.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="TOP.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="TOP.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="TOP.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="UART.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="UART.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="UART.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="UART.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="UARTPC.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="UARTPC.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="UARTPC.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="UARTPC.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="WAIT.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="WAIT.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="WAIT.xst"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="actualizacion3p1.bgn" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BIT" xil_pn:name="actualizacion3p1.bit" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_DRC" xil_pn:name="actualizacion3p1.drc" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="maquina_estados.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="maquina_estados.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="maquina_estados.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="maquina_estadosTX.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="maquina_estadosTX.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="maquina_estadosTX.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="maquina_estadosTX.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="temp.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="temp.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="temp.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="temp.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="transmitControler.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="transmitControler.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="transmitControler.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="transmitControler.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="transmitter.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="transmitter.stx"/>
+    <file xil_pn:fileType="FILE_VHDL_INSTTEMPLATE" xil_pn:name="transmitter.vhi"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="transmitter.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="usage_statistics_webtalk.html"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="webtalk.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1452035803" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1452035803">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1452035803" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="1847257126131295328" xil_pn:start_ts="1452035803">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1452035803" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="7149244206876312103" xil_pn:start_ts="1452035803">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1452035803" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1452035803">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1452035803" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="1991687089923448734" xil_pn:start_ts="1452035803">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1452035803" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="-3893270297158069842" xil_pn:start_ts="1452035803">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1452035803" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-1348447991774063951" xil_pn:start_ts="1452035803">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1452035825" xil_pn:in_ck="8211068412407991546" xil_pn:name="TRANEXT_xstsynthesize_spartan3e" xil_pn:prop_ck="-1507565362444219324" xil_pn:start_ts="1452035803">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name=".lso"/>
+      <outfile xil_pn:name="Actualizacion3P1.lso"/>
+      <outfile xil_pn:name="Actualizacion3P1.ngc"/>
+      <outfile xil_pn:name="Actualizacion3P1.ngr"/>
+      <outfile xil_pn:name="Actualizacion3P1.prj"/>
+      <outfile xil_pn:name="Actualizacion3P1.stx"/>
+      <outfile xil_pn:name="Actualizacion3P1.syr"/>
+      <outfile xil_pn:name="Actualizacion3P1.xst"/>
+      <outfile xil_pn:name="Actualizacion3P1_vhdl.prj"/>
+      <outfile xil_pn:name="Actualizacion3P1_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1452035825" xil_pn:in_ck="-7824674185610353849" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-1725199658627360237" xil_pn:start_ts="1452035825">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1452035832" xil_pn:in_ck="165651896984248392" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="7428857619258179508" xil_pn:start_ts="1452035825">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Actualizacion3P1.bld"/>
+      <outfile xil_pn:name="Actualizacion3P1.ngd"/>
+      <outfile xil_pn:name="Actualizacion3P1_ngdbuild.xrpt"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1452035838" xil_pn:in_ck="-6761296241121170711" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="-1309755933173654900" xil_pn:start_ts="1452035832">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="Actualizacion3P1.pcf"/>
+      <outfile xil_pn:name="Actualizacion3P1_map.map"/>
+      <outfile xil_pn:name="Actualizacion3P1_map.mrp"/>
+      <outfile xil_pn:name="Actualizacion3P1_map.ncd"/>
+      <outfile xil_pn:name="Actualizacion3P1_map.ngm"/>
+      <outfile xil_pn:name="Actualizacion3P1_map.xrpt"/>
+      <outfile xil_pn:name="Actualizacion3P1_summary.xml"/>
+      <outfile xil_pn:name="Actualizacion3P1_usage.xml"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1452035865" xil_pn:in_ck="1970469807132796066" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="-5563652517805085498" xil_pn:start_ts="1452035838">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Actualizacion3P1.ncd"/>
+      <outfile xil_pn:name="Actualizacion3P1.pad"/>
+      <outfile xil_pn:name="Actualizacion3P1.par"/>
+      <outfile xil_pn:name="Actualizacion3P1.ptwx"/>
+      <outfile xil_pn:name="Actualizacion3P1.unroutes"/>
+      <outfile xil_pn:name="Actualizacion3P1.xpi"/>
+      <outfile xil_pn:name="Actualizacion3P1_pad.csv"/>
+      <outfile xil_pn:name="Actualizacion3P1_pad.txt"/>
+      <outfile xil_pn:name="Actualizacion3P1_par.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+    </transform>
+    <transform xil_pn:end_ts="1452035890" xil_pn:in_ck="5486452327312848350" xil_pn:name="TRANEXT_bitFile_spartan3e" xil_pn:prop_ck="-7817169320884990698" xil_pn:start_ts="1452035865">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Actualizacion3P1.ut"/>
+      <outfile xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+      <outfile xil_pn:name="actualizacion3p1.bgn"/>
+      <outfile xil_pn:name="actualizacion3p1.bit"/>
+      <outfile xil_pn:name="actualizacion3p1.drc"/>
+      <outfile xil_pn:name="usage_statistics_webtalk.html"/>
+      <outfile xil_pn:name="webtalk.log"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1451087719" xil_pn:in_ck="7078456489624708072" xil_pn:name="TRAN_configureTargetDevice" xil_pn:prop_ck="5582947192412673156" xil_pn:start_ts="1451087698">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="InputAdded"/>
+      <status xil_pn:value="InputChanged"/>
+      <status xil_pn:value="InputRemoved"/>
+    </transform>
+    <transform xil_pn:end_ts="1452035865" xil_pn:in_ck="3705398377026121701" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416187" xil_pn:start_ts="1452035861">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Actualizacion3P1.twr"/>
+      <outfile xil_pn:name="Actualizacion3P1.twx"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+    </transform>
+  </transforms>
+
+</generated_project>

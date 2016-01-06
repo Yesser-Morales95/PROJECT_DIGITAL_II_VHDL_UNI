@@ -1,0 +1,3 @@
+vhdtdtfi -prj Actualizacion3.0 -o "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/DIVISOR_FREQ.vhi" -module DIVISOR_FREQ -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work DIVISOR_FREQTX.vhd -lib work DIVISOR_FREQ.vhd 
+vhdtdtfi -prj Actualizacion3.0 -o "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/DIVISOR_FREQ.vhi" -module DIVISOR_FREQ -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work DIVISOR_FREQTX.vhd -lib work DIVISOR_FREQ.vhd 
+vhdtdtfi -prj Actualizacion3.0 -o "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/DIVISOR_FREQ.vhi" -module DIVISOR_FREQ -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work DIVISOR_FREQTX.vhd -lib work DIVISOR_FREQ.vhd 

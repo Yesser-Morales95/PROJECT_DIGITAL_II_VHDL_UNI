@@ -1,0 +1,5 @@
+vhdl work "X7seg.vhd"
+vhdl work "Tacometro.vhd"
+vhdl work "Divisor.vhd"
+vhdl work "Binary_To_BCD_16b.vhd"
+vhdl work "TOPPP.vhd"

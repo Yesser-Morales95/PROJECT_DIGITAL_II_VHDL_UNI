@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Otros Archivos\DIGITAL II VHDL\Actualizacion3.1\Actualizacion3P1.ncd
+OUTFILE=D:\Otros Archivos\DIGITAL II VHDL\Actualizacion3.1\Actualizacion3P1.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=D:\Otros Archivos\DIGITAL II VHDL\Actualizacion3.1
+LICENSE=WebPack
+USER_INFO=211037878_0_0_130

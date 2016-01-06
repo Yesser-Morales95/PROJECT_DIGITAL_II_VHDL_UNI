@@ -1,0 +1,6 @@
+work	"RX.vhd"
+work	"UARTPC.vhd"
+work	"UART_baudRateGenerator.vhd"
+work	"UART_transmitter.vhd"
+work	"transmitControler.vhd"
+work	"transmitter.vhd"

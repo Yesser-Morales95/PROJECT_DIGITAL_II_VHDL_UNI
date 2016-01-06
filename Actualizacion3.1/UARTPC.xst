@@ -1,0 +1,5 @@
+set -tmpdir "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/xst/projnav.tmp"
+set -xsthdpdir "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/xst"
+elaborate
+-ifn UARTPC.prj
+-ifmt mixed

@@ -1,0 +1,208 @@
+V3 113
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.vhd" 2016/01/03.20:05:03 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Binary_To_BCD_16b.vhd" 2015/07/22.13:26:03 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/BluetoothRX.vhd" 2016/01/03.18:27:40 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/CRC.vhd" 2014/12/23.11:27:49 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/divider1MHz.vhd" 2015/12/27.23:08:39 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Divisor.vhd" 2015/07/26.20:23:32 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/DIVISOR_FREQ.vhd" 2015/10/19.00:00:55 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/DIVISOR_FREQTX.vhd" 2015/12/25.17:52:49 P.20131013
+EN work/DIVISOR_FREQTX 1451873134 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/DIVISOR_FREQTX.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/DIVISOR_FREQTX/Behavioral 1451873135 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/DIVISOR_FREQTX.vhd" \
+      EN work/DIVISOR_FREQTX 1451873134
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/ds18b20.vhd" 2014/12/23.16:58:23 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/onewire1.vhd" 2015/12/24.20:36:27 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/RS232.vhd" 2015/07/14.16:42:03 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/RX.vhd" 2015/12/04.07:47:22 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/statemachine.vhd" 2015/12/07.16:27:24 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/statemachineTX.vhd" 2015/12/24.20:55:55 P.20131013
+EN work/maquina_estadosTX 1451873132 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/statemachineTX.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/maquina_estadosTX/synth 1451873133 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/statemachineTX.vhd" \
+      EN work/maquina_estadosTX 1451873132
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Tacometro.vhd" 2015/12/07.16:23:56 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/temp.vhd" 2013/06/13.11:31:12 P.20131013
+EN work/temp 1451154149 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/temp.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/temp/Behavior 1451154150 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/temp.vhd" \
+      EN work/temp 1451154149
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/TOPPP.vhd" 2016/01/02.00:46:03 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/TX.vhd" 2015/12/04.07:47:14 P.20131013
+EN work/TX 1451873114 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/TX.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/TX/Behavioral 1451873115 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/TX.vhd" EN work/TX 1451873114
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/UART.vhd" 2016/01/01.18:10:59 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/WAIT.vhd" 2015/10/08.23:24:28 P.20131013
+EN work/WAIT 0 FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/WAIT.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/WAIT/Behavioral 0 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/WAIT.vhd" \
+      EN work/WAIT 0
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/X7seg.vhd" 2015/07/28.16:45:03 P.20131013
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.vhd" 2016/01/05.16:44:55 P.20131013
+EN work/Actualizacion3P1 1452035841 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 PB ieee/NUMERIC_STD 1381692181
+AR work/Actualizacion3P1/Behavioral 1452035842 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.vhd" \
+      EN work/Actualizacion3P1 1452035841 CP PROCESO_LL_VA CP BluetoothRX \
+      CP UARTPCFULL CP DS18B20 CP divider1MHz CP CRC
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Binary_To_BCD_16b.vhd" 2015/07/22.13:26:03 P.20131013
+EN work/Binary_To_BCD_16b 1452035823 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Binary_To_BCD_16b.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Binary_To_BCD_16b/Behavioral 1452035824 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Binary_To_BCD_16b.vhd" \
+      EN work/Binary_To_BCD_16b 1452035823
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/BluetoothRX.vhd" 2016/01/05.17:11:29 P.20131013
+EN work/BluetoothRX 1452035831 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/BluetoothRX.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 PB ieee/NUMERIC_STD 1381692181
+AR work/BluetoothRX/Behavioral 1452035832 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/BluetoothRX.vhd" \
+      EN work/BluetoothRX 1452035831 CP RS232 CP maquina_estados CP DIVISOR_FREQ
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/CRC.vhd" 2014/12/23.11:27:49 P.20131013
+EN work/CRC 1452035839 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/CRC.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/CRC/Behavioral 1452035840 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/CRC.vhd" EN work/CRC 1452035839
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/divider1MHz.vhd" 2015/12/27.23:08:39 P.20131013
+EN work/divider1MHz 1452035837 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/divider1MHz.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/divider1MHz/Behavioral 1452035838 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/divider1MHz.vhd" \
+      EN work/divider1MHz 1452035837
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Divisor.vhd" 2015/07/26.20:23:32 P.20131013
+EN work/division 1452035827 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Divisor.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179 \
+      PB ieee/std_logic_arith 1381692177
+AR work/division/behav 1452035828 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Divisor.vhd" \
+      EN work/division 1452035827
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/DIVISOR_FREQ.vhd" 2015/10/19.00:00:55 P.20131013
+EN work/DIVISOR_FREQ 1452035819 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/DIVISOR_FREQ.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/DIVISOR_FREQ/Behavioral 1452035820 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/DIVISOR_FREQ.vhd" \
+      EN work/DIVISOR_FREQ 1452035819
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/ds18b20.vhd" 2014/12/23.16:58:23 P.20131013
+EN work/DS18B20 1452035835 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/ds18b20.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/DS18B20/Behavioral 1452035836 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/ds18b20.vhd" \
+      EN work/DS18B20 1452035835
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/RS232.vhd" 2015/07/14.16:42:03 P.20131013
+EN work/RS232 1452035815 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/RS232.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/RS232/Behavioral 1452035816 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/RS232.vhd" \
+      EN work/RS232 1452035815
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/RX.vhd" 2015/12/04.07:47:22 P.20131013
+EN work/RX 1452035813 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/RX.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/RX/Behavioral 1452035814 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/RX.vhd" EN work/RX 1452035813
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/statemachine.vhd" 2016/01/05.17:11:01 P.20131013
+EN work/maquina_estados 1452035817 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/statemachine.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/maquina_estados/synth 1452035818 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/statemachine.vhd" \
+      EN work/maquina_estados 1452035817
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Tacometro.vhd" 2015/12/07.16:23:56 P.20131013
+EN work/ContadorBCD 1452035821 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Tacometro.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ContadorBCD/Behavioral 1452035822 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Tacometro.vhd" \
+      EN work/ContadorBCD 1452035821
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/TOPPP.vhd" 2016/01/02.00:46:03 P.20131013
+EN work/PROCESO_LL_VA 1452035829 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/TOPPP.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 PB ieee/NUMERIC_STD 1381692181
+AR work/PROCESO_LL_VA/Behavioral 1452035830 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/TOPPP.vhd" \
+      EN work/PROCESO_LL_VA 1452035829 CP ContadorBCD CP Binary_To_BCD_16b CP X7seg \
+      CP division
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/transmitControler.vhd" 2016/01/05.16:00:57 P.20131013
+EN work/transmitControler 1452035811 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/transmitControler.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/transmitControler/Behavioral 1452035812 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/transmitControler.vhd" \
+      EN work/transmitControler 1452035811
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/transmitter.vhd" 2016/01/05.16:37:33 P.20131013
+EN work/transmitter 1452033673 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/transmitter.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/transmitter/Behavioral 1452033674 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/transmitter.vhd" \
+      EN work/transmitter 1452033673 CP UARTPC CP transmitControler CP RX
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UART.vhd" 2016/01/05.13:02:45 P.20131013
+AR work/UART/Structure -1 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UART.vhd" \
+      EN work/UART 1452020666 CP UART_baudRateGenerator CP UART_transmitter
+EN work/UART 1452020666 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UART.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/UART/Behavioral 1452020667 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UART.vhd" \
+      EN work/UART 1452020666 CP UART_baudRateGenerator CP UART_transmitter
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UARTPC.vhd" 2016/01/05.13:07:26 P.20131013
+EN work/UARTPC 1452035809 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UARTPC.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/UARTPC/Behavioral 1452035810 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UARTPC.vhd" \
+      EN work/UARTPC 1452035809 CP UART_baudRateGenerator CP UART_transmitter
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UARTPCFULL.vhd" 2016/01/05.16:44:17 P.20131013
+EN work/UARTPCFULL 1452035833 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UARTPCFULL.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/UARTPCFULL/Behavioral 1452035834 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UARTPCFULL.vhd" \
+      EN work/UARTPCFULL 1452035833 CP UARTPC CP transmitControler CP RX
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UART_baudRateGenerator.vhd" 2016/01/05.13:28:10 P.20131013
+EN work/UART_baudRateGenerator 1452035805 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UART_baudRateGenerator.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/UART_baudRateGenerator/Behavioral 1452035806 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UART_baudRateGenerator.vhd" \
+      EN work/UART_baudRateGenerator 1452035805
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UART_transmitter.vhd" 2014/12/23.12:04:29 P.20131013
+EN work/UART_transmitter 1452035807 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UART_transmitter.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/UART_transmitter/Behavioral 1452035808 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/UART_transmitter.vhd" \
+      EN work/UART_transmitter 1452035807
+FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/X7seg.vhd" 2015/07/28.16:45:03 P.20131013
+EN work/X7seg 1452035825 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/X7seg.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/X7seg/Behavioral 1452035826 \
+      FL "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/X7seg.vhd" \
+      EN work/X7seg 1452035825

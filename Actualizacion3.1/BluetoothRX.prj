@@ -1,0 +1,4 @@
+vhdl work "statemachine.vhd"
+vhdl work "RS232.vhd"
+vhdl work "DIVISOR_FREQ.vhd"
+vhdl work "BluetoothRX.vhd"

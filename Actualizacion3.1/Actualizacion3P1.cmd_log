@@ -1,0 +1,427 @@
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.0/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.syr" 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
+xst -intstyle ise -ifn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.xst" -ofn "D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/Actualizacion3P1.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc Nexys2_500General.ucf -p xc3s500e-fg320-5 "Actualizacion3P1.ngc" Actualizacion3P1.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Actualizacion3P1_map.ncd Actualizacion3P1.ngd Actualizacion3P1.pcf 
+par -w -intstyle ise -ol high -t 1 Actualizacion3P1_map.ncd Actualizacion3P1.ncd Actualizacion3P1.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Actualizacion3P1.twx Actualizacion3P1.ncd -o Actualizacion3P1.twr Actualizacion3P1.pcf -ucf Nexys2_500General.ucf 
+bitgen -intstyle ise -f Actualizacion3P1.ut Actualizacion3P1.ncd 
