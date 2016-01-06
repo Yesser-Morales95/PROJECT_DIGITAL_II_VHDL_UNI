@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2016-01-05T16:42:52</DateModified>
+  <DateModified>2016-01-05T21:25:03</DateModified>
   <ModuleName>Actualizacion3P1</ModuleName>
   <SummaryTimeStamp>2016-01-05T13:00:36</SummaryTimeStamp>
-  <SavedFilePath>D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/iseconfig/Actualizacion3P1.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1\</ImplementationReportsDirectory>
+  <SavedFilePath>C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/iseconfig/Actualizacion3P1.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1\</ImplementationReportsDirectory>
   <DateInitialized>2015-12-06T11:02:12</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

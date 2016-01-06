@@ -8,7 +8,61 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
-<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;D:/Otros Archivos/DIGITAL II VHDL/Actualizacion3.1/BluetoothRX.vhd&quot; into library work</arg>
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/Actualizacion3P1.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/Binary_To_BCD_16b.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/BluetoothRX.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/CRC.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/DIVISOR_FREQ.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/Divisor.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/RS232.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/RX.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/TOPPP.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/Tacometro.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/UARTPC.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/UARTPCFULL.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/UART_baudRateGenerator.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/UART_transmitter.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/X7seg.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/divider1MHz.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/ds18b20.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/statemachine.vhd&quot; into library work</arg>
+</msg>
+
+<msg type="info" file="ProjectMgmt" num="1061" ><arg fmt="%s" index="1">Parsing VHDL file &quot;C:/Users/Yesser Morales/Documents/GitHub/PROJECT_DIGITAL_II_VHDL_UNI/Actualizacion3.1/transmitControler.vhd&quot; into library work</arg>
 </msg>
 
 </messages>
